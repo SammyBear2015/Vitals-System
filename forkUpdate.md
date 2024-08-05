@@ -2,7 +2,7 @@
 [Fork of: GalaxyDinoDragonYT/Raven-Oxygen-Roblox](https://github.com/GalaxyDinoDragonYT/Raven-Oxygen-Roblox)
 
 # Informaiton
-This fork reworks 'GalaxyDinoDragonYT/Raven-Oxygen-Roblxo' to make it work with all vitals.
+This fork reworks 'GalaxyDinoDragonYT/Raven-Oxygen-Roblox' to make it work with all vitals.
 
 ### Checkboxes for state of project
 
